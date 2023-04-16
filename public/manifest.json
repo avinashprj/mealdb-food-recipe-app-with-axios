@@ -1,6 +1,6 @@
 {
-    "name": "Nucleus-store",
-    "short_name": "Nucleus-store",
+    "name": "MealDB",
+    "short_name": "MealDB",
     "theme_color": "#000000",
     "background_color": "#ffffff",
     "display": "standalone",
